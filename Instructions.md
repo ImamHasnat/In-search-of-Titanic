@@ -1,6 +1,6 @@
 
 
-# **SETUP AND CONTROL INSTRUCTONS*  
+# *SETUP AND CONTROL INSTRUCTONS*
 
 ## **Setup and Installation**  
 
@@ -53,11 +53,11 @@ Run the program:
    ```  
 3. **Replace** `"path/to/music.wav"` with the correct file location:  
 
-   - **For Windows:** Use **double backslashes (`\\`)** or a **raw string**:  
+   **For Windows:** Use **double backslashes (`\\`)** or a **raw string**:  
      ```cpp
      PlaySound("C:\\Users\\YourName\\Music\\background.wav", NULL, SND_LOOP | SND_ASYNC);
      ```  
-   - **For Linux/macOS:** Use a **relative or absolute path**:  
+    **For Linux/macOS:** Use a **relative or absolute path**:  
      ```cpp
      PlaySound("/home/yourname/Music/background.wav", NULL, SND_LOOP | SND_ASYNC);
      ```  
@@ -137,9 +137,6 @@ Run the program:
 
 ---
 
-
-
----
 
 ![5c548250-1e55-4a5f-afe4-29ea67831efb_text](https://github.com/user-attachments/assets/f5aac107-c85b-4384-adf9-834bfb09e01d)
 
