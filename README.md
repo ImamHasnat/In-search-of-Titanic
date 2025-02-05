@@ -124,6 +124,7 @@ NIGHT MODE
 
 
 LICENSE
+
 Feel free to use or modify the code, but please credit the original authors.
 
 
