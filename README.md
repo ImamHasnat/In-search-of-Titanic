@@ -8,16 +8,16 @@ The first scene shows the Titanic in the icy ocean at night, crashing into an ic
 
 # SCENES
 
- A Night in the Atlantic
+ - A Night in the Atlantic
    The Titanic is sailing in the icy ocean at night. It crashes into an iceberg, and the ship starts sinking.
 
- Digital Village Submarine at Dock
+-  Digital Village Submarine at Dock
    The submarine is parked at a dock in a digital village, under a cloudy noon sky. It’s calm and quiet before the submarine starts its journey into the ocean.
 
- Into the Depths
+- Into the Depths
    The submarine goes deeper into the ocean. It moves through dark waters, and fish are swimming around.
 
-Discovering the Titanic
+- Discovering the Titanic
    At the bottom of the ocean, the submarine finds the sunken Titanic. It’s a dark and spooky scene with sharks swimming around the wreck.
 
 ---------------------------------------------------------------
