@@ -1,6 +1,6 @@
 
 
-# **SETUP AND CONTROL INSTRUCTIONS**  
+# **SETUP AND CONTROL INSTRUCTONS*  
 
 ## **Setup and Installation**  
 
@@ -41,6 +41,27 @@ Run the program:
 3. Ensure that you have set up a new project (or use an existing one) and added `main.cpp` to the project files.  
 4. Click **Build > Build and Run**, or simply press **F9** to compile and run the program.  
 5. If any errors occur, check if the **GLUT** and **OpenGL** libraries are correctly linked in the project settings.  
+
+---
+
+## **Steps to Change the Music Path**  
+
+1. **Open** `main.cpp` in any text editor or IDE.  
+2. **Locate** the line where the music file is loaded, e.g.:  
+   ```cpp
+   PlaySound("path/to/music.wav", NULL, SND_LOOP | SND_ASYNC);
+   ```  
+3. **Replace** `"path/to/music.wav"` with the correct file location:  
+
+   - **For Windows:** Use **double backslashes (`\\`)** or a **raw string**:  
+     ```cpp
+     PlaySound("C:\\Users\\YourName\\Music\\background.wav", NULL, SND_LOOP | SND_ASYNC);
+     ```  
+   - **For Linux/macOS:** Use a **relative or absolute path**:  
+     ```cpp
+     PlaySound("/home/yourname/Music/background.wav", NULL, SND_LOOP | SND_ASYNC);
+     ```  
+4. **Save** the file and **recompile** the project.  
 
 ---
 
@@ -115,25 +136,8 @@ Run the program:
 | **Enter** | **Start** the submarine movement |
 
 ---
-Steps to Change the Music Path
 
-Open main.cpp in any text editor or IDE.
 
-Locate the line where the music file is loaded, e.g.:
-
-PlaySound("path/to/music.wav", NULL, SND_LOOP | SND_ASYNC);
-
-Replace "path/to/music.wav" with the correct file location.
-
-For Windows: Use double backslashes (\\) or raw string:
-
-PlaySound("C:\\Users\\YourName\\Music\\background.wav", NULL, SND_LOOP | SND_ASYNC);
-
-For Linux/macOS: Use a relative or absolute path:
-
-PlaySound("/home/yourname/Music/background.wav", NULL, SND_LOOP | SND_ASYNC);
-
-Save the file and recompile the project.
 
 ---
 
