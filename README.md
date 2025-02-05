@@ -1,18 +1,12 @@
-In search of Titanic - Computer Graphics Project
+                                                In search of Titanic 
 
-Overview:
-The Titanic Submarine Journey is a computer graphics project created as part of the course. It takes you on a journey with a submarine exploring the Titanic wreck. The project starts with the Titanic sinking after hitting an iceberg and continues with the submarine diving deeper into the ocean to discover the remains of the ship.
+This project is a computer graphics simulation that takes you on a journey with a submarine exploring the Titanic wreck. The story begins with the Titanic sinking after hitting an iceberg and then follows the submarine as it dives deeper into the ocean to discover the remains of the ship.
+The first scene shows the Titanic in the icy ocean at night, crashing into an iceberg and sinking. In the second scene, the submarine is parked at a dock in a digital village on a cloudy noon. The third scene shows the submarine diving into the dark depths of the ocean, surrounded by fish. Finally, in the fourth scene, the submarine discovers the Titanic wreck at the bottom of the ocean, with sharks circling the remains.
 
 ---------------------------------------------------------
 
-Features:
-- Changing Environments: From a cold night with an iceberg to a cloudy noon at a digital village dock and then to the deep ocean.
-- Realistic Animations: Watch the Titanic sink, see fish swimming, and sharks circling the wreck.
-- Interactive Visuals: Uses 3D graphics techniques to make the scenes look real.
 
-------------------------------------------------------------
-
-Scenes:
+SCENES
 
 1. A Night in the Atlantic
    The Titanic is sailing in the icy ocean at night. It crashes into an iceberg, and the ship starts sinking.
@@ -29,9 +23,8 @@ Scenes:
 ---------------------------------------------------------------
 
 
-Screenshots:
+SCREENSHOTS
 
-Scene 1
 
 
 
@@ -50,8 +43,8 @@ Scene 1
 
 
 
-
-Scene 2 (Day mode)
+---------------------------------------------------------
+DAY MODE
 
 
 ![Screenshot 2025-02-02 163416](https://github.com/user-attachments/assets/8b3e55a6-41ba-476b-863f-8a4cb9e468c6)
@@ -69,8 +62,8 @@ Scene 2 (Day mode)
 
 
 
-
-Scene 2 (Night mode)
+---------------------------------------------------------
+NIGHT MODE
 
 
 
@@ -86,8 +79,8 @@ Scene 2 (Night mode)
 
 
 
+---------------------------------------------------------
 
-Scene 3
 
 
 
@@ -106,8 +99,8 @@ Scene 3
 
 
 
+---------------------------------------------------------
 
-Scene 4
 
 
 
@@ -126,12 +119,15 @@ Scene 4
 
 
 
+---------------------------------------------------------
 
 
 
+LICENSE
+Feel free to use or modify the code, but please credit the original authors.
 
 
 ---------------------------------------------------------
 
-License:
-This project is for educational purposes only. Feel free to use or modify the code, but please credit the original authors.
+![5c548250-1e55-4a5f-afe4-29ea67831efb_text](https://github.com/user-attachments/assets/2d284f53-7184-4efe-b6e3-4b98b684c450)
+
