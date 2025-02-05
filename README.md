@@ -1,4 +1,4 @@
- # **In search of Titanic**
+![5c548250-1e55-4a5f-afe4-29ea67831efb_text](https://github.com/user-attachments/assets/fd5a33ed-79d7-4785-aee8-8b0f26331efd) # **In search of Titanic**
 
 This project is a computer graphics simulation that takes you on a journey with a submarine exploring the Titanic wreck. The story begins with the Titanic sinking after hitting an iceberg and then follows the submarine as it dives deeper into the ocean to discover the remains of the ship.
 The first scene shows the Titanic in the icy ocean at night, crashing into an iceberg and sinking. In the second scene, the submarine is parked at a dock in a digital village on a cloudy noon. The third scene shows the submarine diving into the dark depths of the ocean, surrounded by fish. Finally, in the fourth scene, the submarine discovers the Titanic wreck at the bottom of the ocean, with sharks circling the remains.
@@ -134,6 +134,7 @@ Feel free to use or modify the code, but please credit the original authors.
 
 ---------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/92ab1361-1e63-41c1-be81-b2c33a24b4dd)
+![image](https://github.com/user-attachments/assets/361eba4a-3a4f-4239-86a7-a81759b22239)
+
 
 
