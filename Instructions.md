@@ -1,8 +1,7 @@
 
 
 # *SETUP AND CONTROL INSTRUCTONS*
-
-## **Setup and Installation**  
+  
 
 ### **Prerequisites:**  
 - Ensure you have a C++ compiler installed (**GCC/MinGW** for Windows, **Clang/GCC** for Linux/macOS).  
@@ -65,7 +64,7 @@ Run the program:
 
 ---
 
-## **Scene Switching**  
+## **CONTROL INSTRUCTIONS**  
 
 - **Keys:** `0`, `1`, `2`, `3`  
 - **Function:** `handleInput`  
