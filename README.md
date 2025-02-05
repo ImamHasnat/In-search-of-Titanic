@@ -1,4 +1,4 @@
-                                                            In search of Titanic 
+                              In search of Titanic 
 
 This project is a computer graphics simulation that takes you on a journey with a submarine exploring the Titanic wreck. The story begins with the Titanic sinking after hitting an iceberg and then follows the submarine as it dives deeper into the ocean to discover the remains of the ship.
 The first scene shows the Titanic in the icy ocean at night, crashing into an iceberg and sinking. In the second scene, the submarine is parked at a dock in a digital village on a cloudy noon. The third scene shows the submarine diving into the dark depths of the ocean, surrounded by fish. Finally, in the fourth scene, the submarine discovers the Titanic wreck at the bottom of the ocean, with sharks circling the remains.
@@ -8,16 +8,16 @@ The first scene shows the Titanic in the icy ocean at night, crashing into an ic
 
 SCENES
 
-1. A Night in the Atlantic
+ A Night in the Atlantic
    The Titanic is sailing in the icy ocean at night. It crashes into an iceberg, and the ship starts sinking.
 
-2. Digital Village Submarine at Dock
+ Digital Village Submarine at Dock
    The submarine is parked at a dock in a digital village, under a cloudy noon sky. It’s calm and quiet before the submarine starts its journey into the ocean.
 
-3. Into the Depths
+ Into the Depths
    The submarine goes deeper into the ocean. It moves through dark waters, and fish are swimming around.
 
-4. Discovering the Titanic
+Discovering the Titanic
    At the bottom of the ocean, the submarine finds the sunken Titanic. It’s a dark and spooky scene with sharks swimming around the wreck.
 
 ---------------------------------------------------------------
