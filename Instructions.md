@@ -1,6 +1,6 @@
 
 
-# *SETUP AND CONTROL INSTRUCTONS*
+# *SETUP AND CONTROL INSTRUCTONS*!
   
 
 ### **Prerequisites:**  
